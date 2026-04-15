@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: email me at joseolinareswork@gmail.com
 - 😄 Pronouns: Him (of course)
 - ⚡ Fun fact: well do you know when you code for 20 hrs you can go past walls? It's because you are in heaven
-
+- Currently learning Laravel Framework
